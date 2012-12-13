@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">@string/app_name</string>
+    <string name="color_prompt">Choose a color</string>
+ 
+    <string-array name="color_array">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Orange</item>
+    </string-array>
+ 
+</resources>
